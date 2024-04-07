@@ -1,6 +1,4 @@
 
-
-
 	<h1 align="center">Hi 👋, I'm Anas Chaibi</h1>  
 	<h3 align="center">Full-Stack Developer | DevOps Enthusiast</h3>  
 	  
