@@ -9,7 +9,7 @@
 	  
 - 👨‍💻 Explore my Tech journey at [https://anas-chaibi.me](https://anas-chaibi.me)  
 	  
-- 💬 Ask me about **Full stack development | DevOps | System Desig | Enterprise Growth**  
+- 💬 Ask me about **Full stack development | DevOps | System Design | Enterprise Growth**  
 	  
 - 📫 How to reach me **anas.chaibi@insat.ucar.tn**  
 	  
