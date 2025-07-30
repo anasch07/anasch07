@@ -1,7 +1,4 @@
-<!-- Profile Logo / Banner (Optional, remove if not needed) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/preview.png" width="160" alt="Logo" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Anas Chaibi</h1>
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud & System Design Explorer</h3>
