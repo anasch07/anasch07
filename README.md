@@ -1,7 +1,14 @@
+<!-- Presentation section -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer%20;AI%20enthusiast%20%7C%20Cloud%20and%20DevOps%20fan;Automating%20and%20building%20cool%20stuff%20every%20day!&font=Consolas&center=true&width=580&height=45&color=4e97d9&vCenter=true&pause=1000&size=22" />
 
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Anas Chaibi</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud & System Design Explorer</h3>
+<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud & AI Explorer</h3>
 
 <p align="center">
   <a href="https://anas-chaibi.me"><img src="https://img.shields.io/badge/Portfolio-anas--chaibi.me-009688?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -11,22 +18,15 @@
 
 ---
 
-## 🚀 About Me
+<!-- Bio section -->
+Hey! I'm **Anas Chaibi**, a full-stack developer with a deep passion for DevOps, AI, and cloud system design.  
+I thrive on building scalable systems, automating workflows, and learning something new every day whether it's designing distributed backends, playing with frontend frameworks, or experimenting with the latest AI tools.
 
-- 🛠 **Currently working on:**  
-  Distributed systems, Azure infrastructure, DevOps, and building robust full-stack applications.
-- 🤝 **Open to collaborate:**  
-  Full-stack projects, system architecture, and scalable DevOps pipelines.
-- 🌱 **Always learning:**  
-  New cloud technologies, automation tools, and scalable backend patterns.
-- 💬 **Ask me about:**  
-  System Design, Cloud, DevOps, Enterprise Tech, or how to automate the boring stuff.
-- 📄 **More about me:**  
-  [My Resume / LinkedIn](https://www.linkedin.com/in/anas-chaibi/)
+I love tough technical challenges, clean code, and sharing what I learn.  
+If you're into code, automation, or tech that makes life easier, you'll probably enjoy my projects!
 
 <p align="right"><i>“Take the world from another point of view.” — Richard Feynman</i></p>
 
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,16 +51,6 @@
   <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="32" />
   <img alt="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="32" />
   <!-- Add or remove icons as you wish -->
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaschaibi&show_icons=true&theme=vue" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaschaibi&layout=compact&show_icons=true&theme=vue" height="160"/>
 </p>
 
 ---
